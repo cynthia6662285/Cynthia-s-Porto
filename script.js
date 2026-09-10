@@ -9,7 +9,7 @@ const projects = {
       ["Teknologi", "Laravel, PHP, Blade, JavaScript, CSS, REST API, JWT Authentication"],
       ["Perancangan", "StarUML, MySQL Workbench"]
     ],
-    github: "https://github.com/cynthia6662285"
+    github: "https://github.com/cynthia6662285/e-tender"
   },
   keuanganku: {
     type: "WEB PROJECT · SYSTEM ANALYSIS",
@@ -21,7 +21,7 @@ const projects = {
       ["Teknologi", "Laravel, MySQL"],
       ["Perancangan", "StarUML, MySQL Workbench"]
     ],
-    github: "https://github.com/cynthia6662285"
+    github: "https://github.com/cynthia6662285/kelompok-15"
   },
   mobile: {
     type: "MOBILE PROJECT · SYSTEM ANALYSIS",
@@ -33,7 +33,7 @@ const projects = {
       ["Teknologi", "Ionic, Angular, TypeScript, HTML, SCSS, JavaScript, REST API"],
       ["Perancangan", "Struktur data & komunikasi ke backend"]
     ],
-    github: "https://github.com/cynthia6662285"
+    github: "https://github.com/cynthia6662285/mobile_e-tender"
   },
   organic: {
     type: "MOBILE PROJECT · MACHINE LEARNING",
@@ -46,7 +46,7 @@ const projects = {
       ["Fitur", "Scan, riwayat, dashboard, data referensi, pengaturan"],
       ["Penyimpanan", "Firebase Firestore, riwayat scan diisolasi per Device ID"]
     ],
-    github: "https://github.com/cynthia6662285"
+    github: "https://github.com/cynthia6662285/OrganicTech-SmartVegFreshness-Ionic_App"
   },
   visualearn: {
     type: "GEMASTIK 2026 · USER EXPERIENCE DESIGN",
